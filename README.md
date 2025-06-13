@@ -111,7 +111,7 @@ npm start
 > 
 
 ```markdown
-https://github.com/WarriorLight27/StudSched/Screenshots/home.png
+./Screenshots/home.png
 
 ```
 
