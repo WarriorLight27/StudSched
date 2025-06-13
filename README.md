@@ -108,10 +108,10 @@ npm start
 
 ## ✅ Step 9: Screenshots
 
-> Add images to a `/screenshots` folder and reference them below.
+> 
 
 ```markdown
-https://github.com/WarriorLight27/StudSched/tree/3e81c17a5541a1d6e5d3ea5c68ef4099f53a1591/Screenshots
+https://github.com/WarriorLight27/StudSched/Screenshots/home.png
 
 ```
 
