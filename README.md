@@ -49,7 +49,8 @@ studsched/
 ## ✅ Step 4: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/studsched.git
+git clone https://github.com/WarriorLight27
+/StudSched
 cd studsched
 ```
 
