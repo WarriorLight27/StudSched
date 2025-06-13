@@ -112,7 +112,7 @@ npm start
 > 
 
 ```markdown
-![Home Page](https://raw.githubusercontent.com/WarriorLight27/StudSched/main/Screenshots/home.png)
+![Home Page](https://raw.githubusercontent.com/WarriorLight27/Stud-Sched/main/Screenshots/home.png)
 
 
 ```
