@@ -111,7 +111,7 @@ npm start
 > 
 
 ```markdown
-![home](https://github.com/user-attachments/assets/560c41dc-1086-4a08-ac75-c165458fa87e)
+![Home Page](./Screenshots/home.png)
 
 
 ```
