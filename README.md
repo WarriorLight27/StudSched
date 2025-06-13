@@ -108,11 +108,12 @@ npm start
 
 ## ✅ Step 9: Screenshots
 
-> Add images to a `/screenshots` folder and reference them below.
+> 
 
 ```markdown
-![Create Session Page](./screenshots/create-session.png)
-![Schedule Overview](./screenshots/schedule-list.png)
+![home](https://github.com/user-attachments/assets/560c41dc-1086-4a08-ac75-c165458fa87e)
+
+
 ```
 
 ---
