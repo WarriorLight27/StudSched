@@ -111,8 +111,8 @@ npm start
 > Add images to a `/screenshots` folder and reference them below.
 
 ```markdown
-![Create Session Page](./screenshots/create-session.png)
-![Schedule Overview](./screenshots/schedule-list.png)
+![Create Session Page](./Screenshots/home.png)
+![Schedule Overview](./Screenshots/schedule-list.png)
 ```
 
 ---
