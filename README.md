@@ -109,15 +109,8 @@ npm start
 
 ## ✅ Step 9: Screenshots
 
-> 
+> ![home](https://github.com/user-attachments/assets/85b80447-fe55-4c08-99d9-14fdca360f7e)
 
-```markdown
-![Home Page](https://raw.githubusercontent.com/WarriorLight27/Stud-Sched/main/Screenshots/home.png)
-
-
-```
-
----
 
 ## ✅ Step 10: Deployment Plan (Coming Soon)
 
